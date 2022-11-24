@@ -1,5 +1,4 @@
 ![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)
-[![Priyanshi662/gitartwork](gitartwork.svg)](https://github.com/Priyanshi662/gitartwork)
 <h1 align="center">Hi 👋, I'm Priyanshi Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
