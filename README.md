@@ -6,15 +6,16 @@
 
 <p align="left"> <a href="https://twitter.com/priyanshi527" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshi527?logo=twitter&style=for-the-badge" alt="priyanshi527" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, Core Subjects**
+- 🌱 I’m currently learning **Python and machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Priyanshi662](https://github.com/Priyanshi662)
 
 - 💬 Ask me about **MERN,CP,JAVA**
 
 - ⚡ Fun fact **I am obsessed with Reading novels!**
+- 🎆 Practicing DSA and CP too!
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Happy to connect!:</h3>
 <p align="left">
 <a href="https://twitter.com/priyanshi527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshi527" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanshi-jain-a26077201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshi-jain-a26077201/" height="30" width="40" /></a>
