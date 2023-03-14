@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/priyanshi527" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshi527?logo=twitter&style=for-the-badge" alt="priyanshi527" /></a> </p>
 
-- 🌱 I’m currently learning **Python and machine learning**
+- 🌱 I’m currently practicing **React, Node JS and Databases**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Priyanshi662](https://github.com/Priyanshi662)
 
