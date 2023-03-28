@@ -1,4 +1,3 @@
-![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)
 <h1 align="center">Hi 👋, I'm Priyanshi Jain</h1>
 <h3 align="center">A FrontEnd Developer based in India</h3>
 <h4> I am passionate about Designing web apps and have been working in React for 2 years now</h4>
