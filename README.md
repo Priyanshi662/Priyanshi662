@@ -1,6 +1,7 @@
 ![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)
 <h1 align="center">Hi 👋, I'm Priyanshi Jain</h1>
-<h3 align="center">FrontEnd Developer</h3>
+<h3 align="center">A FrontEnd Developer based in India</h3>
+<h4> I am passionate about Designing web apps and have been working in React for 2 years now</h4>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshi662&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshi662" /> </p>
 
@@ -8,16 +9,18 @@
 
 - 🌱 I’m currently practicing **React, Node JS and Databases**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Priyanshi662](https://github.com/Priyanshi662)
-
-- 🎀 Usually codes in - C++ and  JAVA 
+- 👨‍💻 Some of my notable projects include :
+     - <p> Resume Wizard : <a href="https://github.com/Priyanshi662/resume-wizard" target="blank"> Project Link </a> </p> : An interactive site to generate customized resume of the user     
+     - <p> Brain-pixel : The site can detect faces in the picture provided by the user and increment the score of the number of images submitted by the user</p>
+     - <p> Mini Utils : <a href="https://github.com/Priyanshi662/miniUtils" target="blank">Project Link</a></p> : javascript tools like drawing board and games like whack a mole!
+    
+- 🎀 For problem solving my prefered languages are - C++ and  JAVA 
 
 - 💬 Ask me about **MERN,CP,JAVA**
 
 - ⚡ Fun fact **I am obsessed with Reading novels!**
-- 🎆 Practicing DSA and CP too!
 
-<h3 align="left">Happy to connect!:</h3>
+<h3 align="left">Let's connect!</h3>
 <p align="left">
 <a href="https://twitter.com/priyanshi527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshi527" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanshi-jain-a26077201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshi-jain-a26077201/" height="30" width="40" /></a>
