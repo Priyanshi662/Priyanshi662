@@ -9,9 +9,9 @@
 - 🌱 I’m currently practicing **React and problem solving**
 
 - 👨‍💻 Some of my notable projects include :
-     - <p> Resume Wizard : <a href="https://github.com/Priyanshi662/resume-wizard" target="blank"> Project Link </a> </p>An interactive site to generate customized resume of the user     
-     - <p> Brain-pixel : The site can detect faces in the picture provided by the user and increment the score of the number of images submitted by the user</p>
-     - <p> Mini Utils : <a href="https://github.com/Priyanshi662/miniUtils" target="blank">Project Link</a></p>javascript tools like drawing board and games like whack a mole!
+     - <p> Resume Wizard : <a href="https://github.com/Priyanshi662/resume-wizard" target="blank"> Project Link </a> </p>
+     - <p> Brain-pixel </p>
+     - <p> Mini Utils : <a href="https://github.com/Priyanshi662/miniUtils" target="blank">Project Link</a></p>
     
 - 🎀 For problem solving my prefered languages are - C++ and  JAVA 
 
