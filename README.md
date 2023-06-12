@@ -10,7 +10,7 @@
 
 - 👨‍💻 Some of my notable projects include
      - <p> Resume Wizard : <a href="https://github.com/Priyanshi662/resume-wizard" target="blank"> Project Link </a> </p>
-     - <p> Brain-pixel </p>
+     - <p> Wander stay : <a href="https://github.com/Priyanshi662/WanderStay" targer="blank"> Project Link </a></p>
      - <p> Mini Utils : <a href="https://github.com/Priyanshi662/miniUtils" target="blank">Project Link</a></p>
     
 - 🎀 For problem solving my prefered languages are - C++ and  JAVA 
