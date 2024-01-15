@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Jain</h1>
 <h3 align="center">A FrontEnd Developer based in India</h3>
-<h4> I am passionate about Designing web apps and have been working in React for 2 years now</h4>
+<h4> I am passionate about Designing web apps and have been working in MERN stack for 2 years now</h4>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshi662&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshi662" /> </p>
 
@@ -9,13 +9,13 @@
 - 🌱 I’m currently practicing **React and problem solving**
 
 - 👨‍💻 Some of my notable projects include
-     - <p> Resume Wizard : <a href="https://github.com/Priyanshi662/resume-wizard" target="blank"> Project Link </a> </p>
      - <p> Wander stay : <a href="https://github.com/Priyanshi662/WanderStay" targer="blank"> Project Link </a></p>
-     - <p> Mini Utils : <a href="https://github.com/Priyanshi662/miniUtils" target="blank">Project Link</a></p>
+     - <p> Melody Mix : <a href="https://github.com/Priyanshi662/MelodyMix" target="blank"> Project Link </a> </p>
+     - <p> Fun Fusion : <a href="https://github.com/Priyanshi662/FunFusion" target="blank">Project Link</a></p>
     
 - 🎀 For problem solving my prefered languages are - C++ and  JAVA 
 
-- 💬 Ask me about **MERN,CP,JAVA**
+- 💬 Ask me about **MERN,C++,JAVA**
 
 - ⚡ Fun fact **I am obsessed with Reading novels!**
 
