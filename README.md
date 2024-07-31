@@ -10,10 +10,10 @@
 
 - 👨‍💻 Some of my notable projects include
      - <p> Wander stay : <a href="https://github.com/Priyanshi662/WanderStay" targer="blank"> Project Link </a></p>
-     - <p> Melody Mix : <a href="https://github.com/Priyanshi662/MelodyMix" target="blank"> Project Link </a> </p>
+     - <p> BeatBox : <a href="https://github.com/Priyanshi662/beatbox" target="blank"> Project Link </a> </p>
      - <p> Fun Fusion : <a href="https://github.com/Priyanshi662/FunFusion" target="blank">Project Link</a></p>
     
-- 🎀 For problem solving my prefered languages are - C++ and  JAVA 
+- 🎀 For problem solving my preferred languages are - C++ and  JAVA 
 
 - 💬 Ask me about **MERN,C++,JAVA**
 
