@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Jain</h1>
-<h3 align="center">A FrontEnd Developer based in India</h3>
+<h3 align="center">A Full Stack Developer based in India</h3>
 <h4> I am passionate about Designing web apps and have been working in MERN stack for 2 years now</h4>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshi662&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshi662" /> </p>
