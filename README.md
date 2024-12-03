@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/priyanshi527" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshi527?logo=twitter&style=for-the-badge" alt="priyanshi527" /></a> </p>
 
-- 🌱 I’m currently practicing **React and problem solving**
+- 🌱 I’m currently practicing **NextJS**
 
 - 👨‍💻 Some of my notable projects include
      - <p> Wander stay : <a href="https://github.com/Priyanshi662/WanderStay" targer="blank"> Project Link </a></p>
